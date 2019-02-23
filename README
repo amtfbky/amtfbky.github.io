@@ -1,1 +1,2 @@
 no connect the github auto by usernameAndpasswd
+git remote set-url origin git+ssh://git@github.com/amtfbky/amtfbky.github.io.git
